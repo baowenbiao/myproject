@@ -1,2 +1,0 @@
-webpackJsonp([0],{FP3a:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h3",[this._v("点击")])])}]};var r=n("VU/8")({},i,!1,function(e){n("mHiZ")},"data-v-17905402",null);t.default=r.exports},mHiZ:function(e,t){}});
-//# sourceMappingURL=0.76b764f8847c1f5dff06.js.map
